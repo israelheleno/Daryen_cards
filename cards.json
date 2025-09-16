@@ -200,12 +200,12 @@
         "category": "Competição e Sorte com Dados"
     },
     {
-        "task": "Revanche!",
+        "task": "Revanche",
         "prize": "O último efeito contra você é cancelado e você recupera sua posição no tabuleiro.",
         "category": "Proteção e Reversão de Efeitos"
     },
     {
-        "task": "Revanche!",
+        "task": "Revanche",
         "prize": "O último efeito contra você é cancelado e você recupera sua posição no tabuleiro.",
         "category": "Proteção e Reversão de Efeitos"
     },
@@ -315,12 +315,12 @@
         "category": "Bloqueio e Punição"
     },
     {
-        "task": "NÃO FALE! Curioso punido",
+        "task": "NÃO FALE. Curioso punido",
         "prize": "Devolva essa carta à mesa e continue o jogo. Se algum curioso ler, ele volta 2 casas.",
         "category": "Bloqueio e Punição"
     },
     {
-        "task": "NÃO FALE! Curioso premiado",
+        "task": "NÃO FALE. Curioso premiado",
         "prize": "Devolva essa carta à mesa e continue o jogo. Se algum curioso ler, Você e ele avançam 1 casa.",
         "category": "Bloqueio e Punição"
     },
